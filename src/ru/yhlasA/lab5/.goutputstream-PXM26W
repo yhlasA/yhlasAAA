@@ -1,0 +1,8 @@
+package ru.pershina.lab3;
+
+public class Vector extends Point{
+    private double  perimetr;
+    private double kx,ky,kz; 
+    private  Point p2;
+    private double distance;
+    public Vector(Point p1, Point p2){//

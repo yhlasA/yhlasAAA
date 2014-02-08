@@ -1,0 +1,4 @@
+package ru.pershina.lab3;
+
+public class Point implements Movable, Simmetry{ 
+    private String name="

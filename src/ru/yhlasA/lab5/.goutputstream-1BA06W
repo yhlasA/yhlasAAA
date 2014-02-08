@@ -1,0 +1,5 @@
+package ru.pershina.lab3;
+
+public class Quadrangle extends Point{ 
+    private Point p2, p3, p4;
+    private double AB, BC,CD,DA;//
